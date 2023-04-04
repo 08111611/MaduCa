@@ -1,4 +1,18 @@
-body {
-background-color: black;#000000;
-color: white;
+* {
+margin: 0 16px;
+padding: 24px 0;
+}
+
+.cabecalho {
+     background-color: black;color: white;
+    display: flex;
+justify-content: space-around;
+padding: 24px 0;
+font-size: 18px;}
+
+.cabecalho-imagem {
+    width: 10%;}
+
+.cabecalho-lista-item{
+display: inline-block;
 }
