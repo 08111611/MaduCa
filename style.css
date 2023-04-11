@@ -11,8 +11,31 @@ padding: 24px 0;
 font-size: 18px;}
 
 .cabecalho-imagem {
-    width: 10%;}
+    width: 28%;}
 
 .cabecalho-lista-item{
 display: inline-block;
+}
+
+.escola-imagem {
+    width:25%;
+}
+
+.escola {
+    background-image: linear-gradient(#515EA3,#55BEEB);
+    color: white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.escola-conteudo{
+    width: 35%;
+}
+
+body{
+    font-family:'Poppins', sans-serif;
+}
+.estudante-imagem{
+    width: 170px
 }
